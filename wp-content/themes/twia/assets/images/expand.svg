@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>expand</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-7.000000, -7.000000)">
+        <path d="M19.862,15.561 L15.816,15.561 L15.816,20.303 C15.816,20.8552847 15.3682847,21.303 14.816,21.303 L13.887,21.303 C13.3347153,21.303 12.887,20.8552847 12.887,20.303 L12.887,15.561 L8.841,15.561 C8.28871525,15.561 7.841,15.1132847 7.841,14.561 L7.841,13.893 C7.841,13.3407153 8.28871525,12.893 8.841,12.893 L12.887,12.893 L12.887,8.354 C12.887,7.80171525 13.3347153,7.354 13.887,7.354 L14.816,7.354 C15.3682847,7.354 15.816,7.80171525 15.816,8.354 L15.816,12.893 L19.862,12.893 C20.4142847,12.893 20.862,13.3407153 20.862,13.893 L20.862,14.561 C20.862,15.1132847 20.4142847,15.561 19.862,15.561 Z" id="expand" fill="#FFFFFF"></path>
+    </g>
+</svg>

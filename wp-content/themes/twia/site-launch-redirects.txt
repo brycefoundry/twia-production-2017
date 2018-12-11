@@ -1,0 +1,19 @@
+/***********
+Redirects
+*********/
+
+
+
+/wpi-3-form/ https://twia.org/windstorm-certifications/wpi-3-application/
+/windstorm-certification-requirements/ https://twia.org/windstorm-certifications/
+/certify-ongoing-improvements/ https://twia.org/windstorm-certifications/wpi-8
+/certify-completed-improvements/ https://twia.org/windstorm-certifications/wpi-8-C
+/policyholders/claims-information/ https://twia.org/property-owners/claims-information/
+/policyholders/claims-information/general-information/ https://twia.org/property-owners/claims-information/general-information/
+/policyholders/depopulation/ https://twia.org/property-owners/depopulation/
+/policyholders/storm-center/ https://twia.org/property-owners/storm-center/
+/policyholders/storm-center/teacher-feedback/ https://twia.org/property-owners/storm-center/teacher-feedback/
+/policyholders/wpi-8-requirements/ https://twia.org/property-owners/wpi-8-requirements/
+/agents/training-and-resources/ https://twia.org/agents/training/
+
+

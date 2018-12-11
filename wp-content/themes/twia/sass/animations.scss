@@ -1,0 +1,247 @@
+
+@import "compass/css3/transform";
+@import "compass/css3";
+
+
+body.enter{
+		.lg-masthead{
+			@include transform(scaleY(1));
+			@include transform-origin(top, center);
+			@include transition(.4s all ease-in-out);
+
+			.feature{
+				opacity: 1;
+				@include transition(.4s all ease-in-out);
+				@include transition-delay(.3s);
+				h1{
+					@include transform(translateX(0%));
+					@include transition(.5s all ease-in-out);
+					@include transition-delay(.4s);
+					opacity: 1;
+
+				}
+
+				p,a,button{
+					opacity: 1;
+					@include transition(.4s all ease-in-out);
+				}
+
+				p{
+					
+					
+					@include transition-delay(.6s);
+				}
+
+				a{
+					
+					
+					@include transition-delay(.8s);
+				}
+
+				button{
+					
+					
+					@include transition-delay(.9s);
+				}
+
+			}
+
+			.secondary-feature{
+
+				opacity: 1;
+				@include transition(.4s all ease-in-out);
+				
+
+				&.one{
+					@include transition-delay(.5s);
+
+					.left-70, .right-30, p.white, h3, .cta{
+						opacity: 1;
+						@include transition(.5s all ease-in-out);
+						@include transform(translateX(0%));
+					}
+
+					h3{
+						@include transition-delay(.5s);
+						
+					}
+
+					p.white{
+						@include transition-delay(.6s);
+						
+					}
+
+					.left-70{
+					
+						@include transition-delay(.7s);
+					}
+
+					.right-30{
+						@include transition-delay(.8s);
+
+
+
+					}
+
+					
+					
+
+					
+
+					
+
+					.cta{
+						@include transition-delay(.9s);
+						
+						
+					}
+				}
+
+				&.two{
+					@include transition-delay(.6s);
+					.cta{
+						
+						@include transform(translateY(0%));
+						@include transition-delay(.9s);
+						@include transition(1s all ease-in-out);
+						opacity: 1;
+					}
+					.left{
+						@include transform(translateX(0));
+						@include transition(.5s all ease-in-out);
+						@include transition-delay(.6s);
+						opacity: 1;
+					}
+
+					.right{
+						@include transform(translateX(0));
+						@include transition(.5s all ease-in-out);
+						@include transition-delay(.6s);
+						opacity: 1;
+					}
+
+					h3{
+						
+						@include transform(translateX(0%));
+						opacity: 1;
+						@include transition-delay(1s);
+						@include transition(1s all ease-in-out);
+					}
+
+					p{
+						
+						@include transform(translateX(0%));
+						opacity: 1;
+						@include transition(.5s all ease-in-out);
+						@include transition-delay(.6s);
+					}
+
+					
+				}
+
+				&.three{
+					@include transition-delay(.6s);
+					.cta{
+						
+						@include transform(translateY(0%));
+						@include transition-delay(.9s);
+						@include transition(1s all ease-in-out);
+						opacity: 1;
+					}
+					.right{
+						@include transform(translateX(0));
+						@include transition(.5s all ease-in-out);
+						@include transition-delay(.6s);
+						opacity: 1;
+					}
+
+					.left{
+						@include transform(translateX(0));
+						@include transition(.5s all ease-in-out);
+						@include transition-delay(.6s);
+						opacity: 1;
+					}
+
+					h3{
+						
+						@include transform(translateX(0%));
+						opacity: 1;
+						@include transition-delay(1s);
+						@include transition(1s all ease-in-out);
+					}
+
+					p{
+						
+						@include transform(translateX(0%));
+						opacity: 1;
+						@include transition(.5s all ease-in-out);
+						@include transition-delay(.6s);
+					}
+
+					
+				}
+			}
+		}	
+
+		.social-section{
+			opacity: 1;
+			@include transition(.4s all ease-in-out);
+			@include transition-delay(.6s);
+			
+		}
+
+		#home-section-3{
+			opacity: 1;
+			@include transition(.4s all ease-in-out);
+			@include transition-delay(.9s);
+		}	
+}
+
+
+#home-section-3{
+	&.waypoint{
+		.left{
+			@include transform(translateX(0%));
+			@include transition(.6s all ease-in-out);
+			opacity: 1;
+			
+		}
+
+		.right{
+
+			@include transform(translateX(0%));
+			@include transition(.6s all ease-in-out);
+			@include transition-delay(.2s);
+			opacity: 1;
+			
+		}
+	}
+}
+
+#home-section-4{
+	&.waypoint{
+		ul{
+		
+
+			li{
+				
+				
+				
+
+				&:first-child{
+					
+					@include transition(.3s all ease-in-out);
+					transform: translateX(0%)translateY(0px);
+				}
+
+				
+
+				&:last-child{
+					
+					@include transition(.3s all ease-in-out);
+					transform: translateX(0%)translateY(0px);
+				}
+			}
+		}
+	}
+}

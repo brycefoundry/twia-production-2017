@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>open</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="direction-1/calls/inline-content/inactive" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-679.000000, -14.000000)">
+        <path d="M687,19 L691,19 C691.552285,19 692,19.4477153 692,20 L692,21 C692,21.5522847 691.552285,22 691,22 L687,22 L687,26 C687,26.5522847 686.552285,27 686,27 L685,27 C684.447715,27 684,26.5522847 684,26 L684,22 L680,22 C679.447715,22 679,21.5522847 679,21 L679,20 C679,19.4477153 679.447715,19 680,19 L684,19 L684,15 C684,14.4477153 684.447715,14 685,14 L686,14 C686.552285,14 687,14.4477153 687,15 L687,19 Z" id="open" fill="#D8D8D8" transform="translate(685.500000, 20.500000) rotate(-360.000000) translate(-685.500000, -20.500000) "></path>
+    </g>
+</svg>

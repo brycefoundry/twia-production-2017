@@ -1,0 +1,130 @@
+/**
+Dark Colors
+*/
+
+$black: #1F1F1F;
+$dark-blue: #12284B;
+$charcoal: #868888;
+
+/**
+Primary Colors
+*/
+
+$gold: #C1AA85;
+$dark-gold: #A28A65;
+$white: #FFFFFF;
+
+/**
+Callout Colors
+*/
+
+$orange: #FE5000;
+$red: #AF0909;
+$blue: #30A6DC;
+$grey-blue: #848FA1;
+
+/**
+Background Colors
+*/
+
+$offwhite: #F7F7F7;
+$light-blue: #EFF6F9;
+
+
+.bg-blue{
+	background-color: $blue;
+	color: $white;
+}
+
+.bg-orange{
+	background-color: $orange;
+	color: $white;
+}
+
+.bg-red{
+	background-color: $red;
+	color: $white;
+}
+
+.bg-dark-blue{
+	background-color: $dark-blue;
+	color: $white;
+}
+
+.bg-grey-blue{
+	background-color: $grey-blue;
+	color: $white;
+}
+
+.bg-charcoal{
+	background-color: $charcoal;
+	color: $white;
+}
+
+.bg-black{
+	background-color: $black;
+	color: $white;
+}
+
+
+.bg-gold{
+	background-color: $gold;
+	color: $white;
+}
+
+.bg-dark-gold{
+	background-color: $dark-gold;
+	color: $white;
+}
+
+.bg-white{
+	background-color: $white;
+	color: $dark-blue;
+}
+
+
+.blue{
+	color: $blue;
+}
+
+.orange{
+	color: $orange;
+}
+
+.red{
+	color: $red;
+}
+
+.dark-blue{
+	color: $dark-blue;
+}
+
+.grey-blue{
+	color: $grey-blue;
+}
+
+.charcoal{
+	color: $charcoal;
+}
+
+.black{
+	color: $black;
+}
+
+.dark-gold{
+	
+	color: $dark-gold;
+}
+
+
+.gold{
+	color: $gold;
+}
+
+.white{
+	color: $white;
+}
+
+
+
+
